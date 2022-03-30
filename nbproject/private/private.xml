@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/lcdrpl/gui/ImagePanel.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>25</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/gui/lefttab/TabButton.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/gui/ImagePanel.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/database/PreparedStatement.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/gui/tabs/item/ItemTab.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/gui/tabs/lending/LendingHistoryTab.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/MainFrame.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/database/ResultSet.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/database/CallableStatement.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/Util.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/gui/ImageLabel.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/gui/tabs/lending/BorrowPanel.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/gui/lefttab/LeftTabPanel.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/database/Database.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/gui/tabs/blacklist/BlacklistTab.java</file>
+            <file>file:/C:/Users/Lenovo2/GoogleDrive/Projects/NetBeansProjects/LcdRpl/src/lcdrpl/gui/tabs/home/HomeTab.java</file>
+        </group>
+    </open-files>
+</project-private>
