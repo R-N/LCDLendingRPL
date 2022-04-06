@@ -4,12 +4,13 @@
  * and open the template in the editor.
  */
 package lcdrpl;
+import java.math.BigInteger;
+import java.nio.charset.StandardCharsets;
 import javax.swing.JOptionPane;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.sql.Timestamp;
 import java.util.Calendar;
-import javax.xml.bind.DatatypeConverter;
 /**
  *
  * @author Lenovo2
@@ -21,9 +22,10 @@ public class Util {
     public static String md5(String source){
         try{
             MessageDigest md = MessageDigest.getInstance("MD5");
+            md.update(StandardCharsets.UTF_8.encode(source));
             md.update(source.getBytes());
             byte[] digest = md.digest();
-            String myHash = DatatypeConverter.printHexBinary(digest).toUpperCase();
+            String myHash = String.format("%032x", new BigInteger(1, digest));
             return myHash;
         }catch(NoSuchAlgorithmException ex){
             throw new RuntimeException(ex.getMessage());
